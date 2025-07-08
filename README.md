@@ -7,3 +7,7 @@ Whether the number is Even or Odd
 A full multiplication table (1–10)
 Clicking “Reset” clears the screen
 “Dark Mode” button toggles the website’s theme
+
+
+
+https://miltonahmed.github.io/multiplication-table-app/
